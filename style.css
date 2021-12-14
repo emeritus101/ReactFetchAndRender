@@ -1,0 +1,34 @@
+button {
+    background-color: green;
+    border: 6px solid #0ff166;
+    border-radius: 15px;
+    width: 50px;
+    margin-left: 0.3rem;
+    font-weight: bold;
+    cursor:default;
+  }
+  
+select {
+    display: block;
+    margin-bottom: 20px;
+  }
+  
+body{
+    background-color: lightcoral;
+    margin: 20px;
+    font-family: "Arial", "Arial Black", "Helvetica Neue",sans-serif;
+    background-color: lightblue;
+    align-content: center;
+    text-align: center;
+  }
+
+  .atm {
+    margin: 3rem 0;
+  }
+
+
+  .center {
+    display:inline-flex;
+    justify-content: 'center';
+    align-items: 'center';
+}
