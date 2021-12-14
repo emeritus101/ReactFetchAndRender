@@ -1,6 +1,6 @@
 <h1 align="center">
 # ReactFetchAndRender
- MERN React Exercise for Fetch and Render from Public API
+# MERN React Exercise for Fetch and Render from Public API
 </h1>
 <p align="center">ATM Exercise from the MERN Course to work with Javascript, React and saving state<p>
 
